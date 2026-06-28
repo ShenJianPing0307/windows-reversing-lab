@@ -1,0 +1,3 @@
+﻿  main.c
+H:\course\code\windows-reversing-lab\20260621\source\datademo01\datademo01\main.c(18,1): warning C4305: “初始化”: 从“int”到“char”截断
+  datademo01.vcxproj -> H:\course\code\windows-reversing-lab\20260621\source\datademo01\Debug\datademo01.exe
